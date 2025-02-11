@@ -1,6 +1,17 @@
-# PULL REQUEST REVIEWER BOT
+<p align="center">
+<img height="40" alt="horizontal-logo-gradient-blue-atlassian" src="https://github.com/user-attachments/assets/dcf5ef2d-ecef-420b-8151-cad1849d2144" /> &nbsp;
+<img height="45" alt="logo-gradient-blue-bitbucket" src="https://github.com/user-attachments/assets/b2b47870-cc29-4845-a413-c99534efd3ee" />
+</p>
+
+# <p align="center">PULL REQUEST REVIEWER BOT</p>
 
 PRR Bot is an application that is built using atlassian forge platform. It seamlessly integrates with bitbucket, and assists in code review process by analyzing pull requests and providing detailed feedback on code quality, potential issues, and optimizations. It helps developers identify minor flaws, improve efficiency, and maintain best coding practices, reducing manual review effort and thus ensuring higher code standards
+
+<section>
+ <a href="" target="_blank"><img src="https://github.com/user-attachments/assets/a1621715-68a9-409f-a261-8ed5e1674a31" alt="site" height="40" /></a>
+&nbsp;&nbsp;
+  <a href="" target="_blank"><img src="https://github.com/user-attachments/assets/7182222a-3bb2-47e5-ad74-c22c478664b1" alt="demovideo" height="40" /></a>
+</section>
 
 ## Features
 
@@ -37,6 +48,8 @@ Langchain has been used to interact with the LLM, specifically the the module ``
 LangServe has been used to deploy the LLM chains as a REST API
 
 ## Architecture
+
+![forge (3)](https://github.com/user-attachments/assets/d974bd03-a7ce-473a-9075-7339643056a9)
 
 #### 1. Fetch Open Pull Requests
 

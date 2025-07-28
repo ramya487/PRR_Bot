@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/ramya487/llm_prr
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/ramya487/forge_prr

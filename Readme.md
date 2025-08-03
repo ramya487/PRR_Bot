@@ -8,8 +8,6 @@
 PRR Bot is an application that is built using atlassian forge platform. It seamlessly integrates with bitbucket, and assists in code review process by analyzing pull requests and providing detailed feedback on code quality, potential issues, and optimizations. It helps developers identify minor flaws, improve efficiency, and maintain best coding practices, reducing manual review effort and thus ensuring higher code standards
 
 <section>
- <a href="" target="_blank"><img src="https://github.com/user-attachments/assets/a1621715-68a9-409f-a261-8ed5e1674a31" alt="site" height="40" /></a>
-&nbsp;&nbsp;
   <a href="https://youtu.be/17qtKcrNx4c" target="_blank"><img src="https://github.com/user-attachments/assets/7182222a-3bb2-47e5-ad74-c22c478664b1" alt="demovideo" height="40" /></a>
 </section>
 

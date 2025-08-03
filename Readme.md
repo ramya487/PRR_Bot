@@ -64,3 +64,7 @@ The fetched file contents is then sent to the FastAPI backend which then sends a
 #### 4. Add Comments To Pull Reqeust
 
 The suggested comments from the LLM is then displayed to the user and could be further added directly as comments to the pull request alongside the revelant code changes
+
+## License
+
+This project with a MIT license giving permissive usage. For more information, refer to the [LICENSE](LICENSE) file
